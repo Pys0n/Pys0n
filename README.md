@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pys0n
 - 👀 I’m interested in Computer science 
-- 🌱 I’m currently learning Python3
+- 🌱 I’m currently learning Python3 
 - 📫 How to reach me: jason.krueger2010@web.de
 
 <!---
